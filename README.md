@@ -59,7 +59,7 @@ Because client engagements are under NDA, I publish clean, reproducible open-sou
 |---|---|---|---|
 | `ai-dlc-spec-driven-starter` | Spec-Driven AI-DLC Playbook & Automated PR Spec Reviewer | GitHub Actions, Claude Code, Cursor, Python/TS | 🚧 Building |
 | `mcp-enterprise-data-suite` | Production MCP Servers (SQL Guardrails, Vector KB, API Bridge) | Python (FastMCP), TypeScript, pgvector, Docker | 🚧 Building |
-| `gcp-multi-agent-hitl-platform` | Multi-Agent Deep Research & Proposal Audit with HITL | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | 📋 Planned |
+| [`gcp-multi-agent-hitl-platform`](https://github.com/mabdullah-ml/gcp-multi-agent-hitl-platform) | Multi-Agent Deep Research & Proposal Audit with HITL | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | ✅ Live |
 | `aws-bedrock-rag-eval-workbench` | Enterprise AWS RAG + Automated RAGAS Accuracy Benchmarks | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | 📋 Planned |
 | `llm-observability-aws-pipeline` | Chatbot Telemetry, Token-Cost & Quality Observability IaC | ECS, FireLens, S3, Glue, Athena, Terraform | 📋 Planned |
 | `clinical-doc-compliance-agent` | Regulated Document Drafting & Cross-Doc Consistency Agent | FastAPI, LangGraph, Pydantic, Next.js, Docker | 📋 Planned |
