@@ -55,8 +55,8 @@ flowchart LR
 
 | リポジトリ | テーマ | 主なスタック | ステータス |
 |---|---|---|---|
-| `ai-dlc-spec-driven-starter` | AI-DLC仕様駆動開発テンプレート＆PR仕様チェック自動化 | GitHub Actions, Claude Code, Cursor | 🚧 構築中 |
-| `mcp-enterprise-data-suite` | セキュリティガードレール付きエンタープライズMCPサーバー群 | Python (FastMCP), TypeScript, pgvector | 🚧 構築中 |
+| [`ai-dlc-spec-driven-starter`](https://github.com/mabdullah-ml/ai-dlc-spec-driven-starter) | AI-DLC仕様駆動開発テンプレート＆PR仕様チェック自動化 | GitHub Actions, Claude Code, Cursor | ✅ 公開中 |
+| [`mcp-enterprise-data-suite`](https://github.com/mabdullah-ml/mcp-enterprise-data-suite) | セキュリティガードレール付きエンタープライズMCPサーバー群 | Python (FastAPI), TypeScript, pgvector | ✅ 公開中 |
 | [`gcp-multi-agent-hitl-platform`](https://github.com/mabdullah-ml/gcp-multi-agent-hitl-platform) | GCPマルチエージェント Deep Research & HITL承認基盤 | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | ✅ 公開中 |
 | `aws-bedrock-rag-eval-workbench` | AWS Bedrock RAG構築＆RAGAS自動精度評価ベンチマーク | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | 📋 予定 |
 | `llm-observability-aws-pipeline` | チャットボットログ分析・コスト/品質可視化パイプライン（IaC） | ECS, FireLens, S3, Glue, Athena, Terraform | 📋 予定 |
