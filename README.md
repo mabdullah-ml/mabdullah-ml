@@ -57,8 +57,8 @@ Because client engagements are under NDA, I publish clean, reproducible open-sou
 
 | Repository | Focus Area | Key Stack | Status |
 |---|---|---|---|
-| `ai-dlc-spec-driven-starter` | Spec-Driven AI-DLC Playbook & Automated PR Spec Reviewer | GitHub Actions, Claude Code, Cursor, Python/TS | 🚧 Building |
-| `mcp-enterprise-data-suite` | Production MCP Servers (SQL Guardrails, Vector KB, API Bridge) | Python (FastMCP), TypeScript, pgvector, Docker | 🚧 Building |
+| [`ai-dlc-spec-driven-starter`](https://github.com/mabdullah-ml/ai-dlc-spec-driven-starter) | Spec-Driven AI-DLC Playbook & Automated PR Spec Reviewer | GitHub Actions, Claude Code, Cursor, Python/TS | ✅ Live |
+| [`mcp-enterprise-data-suite`](https://github.com/mabdullah-ml/mcp-enterprise-data-suite) | Production MCP Servers (SQL Guardrails, Vector KB, API Bridge) | Python (FastAPI), TypeScript, pgvector, Docker | ✅ Live |
 | [`gcp-multi-agent-hitl-platform`](https://github.com/mabdullah-ml/gcp-multi-agent-hitl-platform) | Multi-Agent Deep Research & Proposal Audit with HITL | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | ✅ Live |
 | `aws-bedrock-rag-eval-workbench` | Enterprise AWS RAG + Automated RAGAS Accuracy Benchmarks | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | 📋 Planned |
 | `llm-observability-aws-pipeline` | Chatbot Telemetry, Token-Cost & Quality Observability IaC | ECS, FireLens, S3, Glue, Athena, Terraform | 📋 Planned |
