@@ -63,10 +63,10 @@ Because client engagements are under NDA, I publish clean, reproducible open-sou
 | [`aws-bedrock-rag-eval-workbench`](https://github.com/mabdullah-ml/aws-bedrock-rag-eval-workbench) | Enterprise AWS RAG + Automated RAGAS Accuracy Benchmarks | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | ✅ Live |
 | [`llm-observability-aws-pipeline`](https://github.com/mabdullah-ml/llm-observability-aws-pipeline) | Chatbot Telemetry, Token-Cost & Quality Observability IaC | ECS, FireLens, S3, Glue, Athena, Terraform | ✅ Live |
 | [`clinical-doc-compliance-agent`](https://github.com/mabdullah-ml/clinical-doc-compliance-agent) | Regulated Document Drafting & Cross-Doc Consistency Agent | FastAPI, LangGraph, Pydantic, Next.js, Docker | ✅ Live |
-| `dify-n8n-production-aws-kit` | Self-Hosted Dify & n8n on AWS + Enterprise Workflow Blueprints | Terraform, AWS, Docker, Dify DSL, n8n JSON | 📋 Planned |
-| `figma-mcp-design-to-code-kit` | Figma Dev Mode + MCP → Typed Next.js Component Pipeline | TypeScript, Next.js, Tailwind, Vitest, Playwright | 📋 Planned |
-| `ev-battery-eol-cps-mlops` | CPS IoT Telemetry & EV Battery End-of-Life (RUL) Prediction | PyTorch, MLflow, FastAPI, TimescaleDB, Docker | 📋 Planned |
-| `enterprise-lakehouse-clv-inventory` | Manufacturing Quality, Customer LTV & Auto-Reorder ELT Stack | Python (Polars), dbt, PostgreSQL, DuckDB, BI | 📋 Planned |
+| [`dify-n8n-production-aws-kit`](https://github.com/mabdullah-ml/dify-n8n-production-aws-kit) | Self-Hosted Dify & n8n on AWS + Enterprise Workflow Blueprints | Terraform, AWS, Docker, Dify DSL, n8n JSON | ✅ Live |
+| [`figma-mcp-design-to-code-kit`](https://github.com/mabdullah-ml/figma-mcp-design-to-code-kit) | Figma Dev Mode + MCP → Typed Next.js Component Pipeline | TypeScript, Next.js, Tailwind, Vitest, Playwright | ✅ Live |
+| [`ev-battery-eol-cps-mlops`](https://github.com/mabdullah-ml/ev-battery-eol-cps-mlops) | CPS IoT Telemetry & EV Battery End-of-Life (RUL) Prediction | PyTorch, MLflow, FastAPI, TimescaleDB, Docker | ✅ Live |
+| [`enterprise-lakehouse-clv-inventory`](https://github.com/mabdullah-ml/enterprise-lakehouse-clv-inventory) | Manufacturing Quality, Customer LTV & Auto-Reorder ELT Stack | Python (Polars), dbt, PostgreSQL, DuckDB, BI | ✅ Live |
 
 ---
 
