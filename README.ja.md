@@ -58,9 +58,9 @@ flowchart LR
 | [`ai-dlc-spec-driven-starter`](https://github.com/mabdullah-ml/ai-dlc-spec-driven-starter) | AI-DLC仕様駆動開発テンプレート＆PR仕様チェック自動化 | GitHub Actions, Claude Code, Cursor | ✅ 公開中 |
 | [`mcp-enterprise-data-suite`](https://github.com/mabdullah-ml/mcp-enterprise-data-suite) | セキュリティガードレール付きエンタープライズMCPサーバー群 | Python (FastAPI), TypeScript, pgvector | ✅ 公開中 |
 | [`gcp-multi-agent-hitl-platform`](https://github.com/mabdullah-ml/gcp-multi-agent-hitl-platform) | GCPマルチエージェント Deep Research & HITL承認基盤 | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | ✅ 公開中 |
-| `aws-bedrock-rag-eval-workbench` | AWS Bedrock RAG構築＆RAGAS自動精度評価ベンチマーク | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | 📋 予定 |
-| `llm-observability-aws-pipeline` | チャットボットログ分析・コスト/品質可視化パイプライン（IaC） | ECS, FireLens, S3, Glue, Athena, Terraform | 📋 予定 |
-| `clinical-doc-compliance-agent` | 規制文書ドラフト作成＆文書間整合性チェックエージェント | FastAPI, LangGraph, Pydantic, Next.js | 📋 予定 |
+| [`aws-bedrock-rag-eval-workbench`](https://github.com/mabdullah-ml/aws-bedrock-rag-eval-workbench) | AWS Bedrock RAG構築＆RAGAS自動精度評価ベンチマーク | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | ✅ 公開中 |
+| [`llm-observability-aws-pipeline`](https://github.com/mabdullah-ml/llm-observability-aws-pipeline) | チャットボットログ分析・コスト/品質可視化パイプライン（IaC） | ECS, FireLens, S3, Glue, Athena, Terraform | ✅ 公開中 |
+| [`clinical-doc-compliance-agent`](https://github.com/mabdullah-ml/clinical-doc-compliance-agent) | 規制文書ドラフト作成＆文書間整合性チェックエージェント | FastAPI, LangGraph, Pydantic, Next.js | ✅ 公開中 |
 | `dify-n8n-production-aws-kit` | AWS本番Dify・n8n構築Terraform＆業務ワークフロー集 | Terraform, AWS, Docker, Dify DSL, n8n | 📋 予定 |
 | `figma-mcp-design-to-code-kit` | Figma Dev Mode + MCP → Next.js自動生成・E2E検証 | TypeScript, Next.js, Tailwind, Playwright | 📋 予定 |
 | `ev-battery-eol-cps-mlops` | CPSテレメトリ＆EVバッテリー寿命（EOL/RUL）予測ML | PyTorch, MLflow, FastAPI, Docker | 📋 予定 |
