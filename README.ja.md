@@ -61,10 +61,10 @@ flowchart LR
 | [`aws-bedrock-rag-eval-workbench`](https://github.com/mabdullah-ml/aws-bedrock-rag-eval-workbench) | AWS Bedrock RAG構築＆RAGAS自動精度評価ベンチマーク | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | ✅ 公開中 |
 | [`llm-observability-aws-pipeline`](https://github.com/mabdullah-ml/llm-observability-aws-pipeline) | チャットボットログ分析・コスト/品質可視化パイプライン（IaC） | ECS, FireLens, S3, Glue, Athena, Terraform | ✅ 公開中 |
 | [`clinical-doc-compliance-agent`](https://github.com/mabdullah-ml/clinical-doc-compliance-agent) | 規制文書ドラフト作成＆文書間整合性チェックエージェント | FastAPI, LangGraph, Pydantic, Next.js | ✅ 公開中 |
-| `dify-n8n-production-aws-kit` | AWS本番Dify・n8n構築Terraform＆業務ワークフロー集 | Terraform, AWS, Docker, Dify DSL, n8n | 📋 予定 |
-| `figma-mcp-design-to-code-kit` | Figma Dev Mode + MCP → Next.js自動生成・E2E検証 | TypeScript, Next.js, Tailwind, Playwright | 📋 予定 |
-| `ev-battery-eol-cps-mlops` | CPSテレメトリ＆EVバッテリー寿命（EOL/RUL）予測ML | PyTorch, MLflow, FastAPI, Docker | 📋 予定 |
-| `enterprise-lakehouse-clv-inventory` | 製造品質・顧客LTV分析＆在庫自動発注ELTデータ基盤 | Python (Polars), dbt, PostgreSQL, DuckDB | 📋 予定 |
+| [`dify-n8n-production-aws-kit`](https://github.com/mabdullah-ml/dify-n8n-production-aws-kit) | AWS本番Dify・n8n構築Terraform＆業務ワークフロー集 | Terraform, AWS, Docker, Dify DSL, n8n | ✅ 公開中 |
+| [`figma-mcp-design-to-code-kit`](https://github.com/mabdullah-ml/figma-mcp-design-to-code-kit) | Figma Dev Mode + MCP → Next.js自動生成・E2E検証 | TypeScript, Next.js, Tailwind, Playwright | ✅ 公開中 |
+| [`ev-battery-eol-cps-mlops`](https://github.com/mabdullah-ml/ev-battery-eol-cps-mlops) | CPSテレメトリ＆EVバッテリー寿命（EOL/RUL）予測ML | PyTorch, MLflow, FastAPI, Docker | ✅ 公開中 |
+| [`enterprise-lakehouse-clv-inventory`](https://github.com/mabdullah-ml/enterprise-lakehouse-clv-inventory) | 製造品質・顧客LTV分析＆在庫自動発注ELTデータ基盤 | Python (Polars), dbt, PostgreSQL, DuckDB | ✅ 公開中 |
 
 ---
 
