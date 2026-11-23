@@ -60,9 +60,9 @@ Because client engagements are under NDA, I publish clean, reproducible open-sou
 | [`ai-dlc-spec-driven-starter`](https://github.com/mabdullah-ml/ai-dlc-spec-driven-starter) | Spec-Driven AI-DLC Playbook & Automated PR Spec Reviewer | GitHub Actions, Claude Code, Cursor, Python/TS | ✅ Live |
 | [`mcp-enterprise-data-suite`](https://github.com/mabdullah-ml/mcp-enterprise-data-suite) | Production MCP Servers (SQL Guardrails, Vector KB, API Bridge) | Python (FastAPI), TypeScript, pgvector, Docker | ✅ Live |
 | [`gcp-multi-agent-hitl-platform`](https://github.com/mabdullah-ml/gcp-multi-agent-hitl-platform) | Multi-Agent Deep Research & Proposal Audit with HITL | FastAPI, LangGraph, Vertex AI, Next.js, Terraform | ✅ Live |
-| `aws-bedrock-rag-eval-workbench` | Enterprise AWS RAG + Automated RAGAS Accuracy Benchmarks | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | 📋 Planned |
-| `llm-observability-aws-pipeline` | Chatbot Telemetry, Token-Cost & Quality Observability IaC | ECS, FireLens, S3, Glue, Athena, Terraform | 📋 Planned |
-| `clinical-doc-compliance-agent` | Regulated Document Drafting & Cross-Doc Consistency Agent | FastAPI, LangGraph, Pydantic, Next.js, Docker | 📋 Planned |
+| [`aws-bedrock-rag-eval-workbench`](https://github.com/mabdullah-ml/aws-bedrock-rag-eval-workbench) | Enterprise AWS RAG + Automated RAGAS Accuracy Benchmarks | Bedrock, OpenSearch, Lambda, RAGAS, Terraform | ✅ Live |
+| [`llm-observability-aws-pipeline`](https://github.com/mabdullah-ml/llm-observability-aws-pipeline) | Chatbot Telemetry, Token-Cost & Quality Observability IaC | ECS, FireLens, S3, Glue, Athena, Terraform | ✅ Live |
+| [`clinical-doc-compliance-agent`](https://github.com/mabdullah-ml/clinical-doc-compliance-agent) | Regulated Document Drafting & Cross-Doc Consistency Agent | FastAPI, LangGraph, Pydantic, Next.js, Docker | ✅ Live |
 | `dify-n8n-production-aws-kit` | Self-Hosted Dify & n8n on AWS + Enterprise Workflow Blueprints | Terraform, AWS, Docker, Dify DSL, n8n JSON | 📋 Planned |
 | `figma-mcp-design-to-code-kit` | Figma Dev Mode + MCP → Typed Next.js Component Pipeline | TypeScript, Next.js, Tailwind, Vitest, Playwright | 📋 Planned |
 | `ev-battery-eol-cps-mlops` | CPS IoT Telemetry & EV Battery End-of-Life (RUL) Prediction | PyTorch, MLflow, FastAPI, TimescaleDB, Docker | 📋 Planned |
